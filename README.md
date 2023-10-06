@@ -2,7 +2,7 @@
 
 ### Install
 ```
-go install https://github.com/1amkaizen/Go-urlmining@latest
+go install github.com/1amkaizen/Go-urlmining@latest
 ```
 
 ### Penggunaan
